@@ -1,2 +1,0 @@
-# pucci_site
-sus
